@@ -1,0 +1,137 @@
+Nik5W1H Privacy Policy
+
+Effective date: September 1, 2026
+
+Nik5W1H is designed as a personal memory and information organiser. We respect the privacy of the information you choose to store in the app.
+
+This Privacy Policy explains how Nik5W1H handles information when you use the app.
+
+Information You Enter into Nik5W1H
+
+Nik5W1H allows you to create and store information such as:
+
+* titles and descriptions;
+* What, Where, When, Who, Why and How information;
+* notes;
+* photos;
+* documents and PDF files;
+* scanned information;
+* recognised text;
+* location information; and
+* other attachments you choose to add.
+
+This information is provided by you for the purpose of creating your personal records.
+
+Storage of Your Information
+
+Nik5W1H can store its application data locally on your device.
+
+Where you choose to enable and use iCloud storage, information may also be stored using Apple’s iCloud services associated with your Apple account.
+
+The availability and operation of iCloud are subject to Apple’s services and policies.
+
+Nik5W1H also provides backup and restore functions. Backup files are stored or shared at locations you select. You are responsible for protecting backup files that you create or export.
+
+Camera and Photos
+
+Nik5W1H may request access to your device camera and photo library when you choose to capture or attach an image.
+
+Camera and photo access is used to provide the feature you requested.
+
+Nik5W1H does not access your camera or photo library for advertising purposes.
+
+Microphone and Speech Recognition
+
+Nik5W1H may request microphone and speech recognition access when you choose to use speech-to-text.
+
+Audio captured for speech recognition is used for the purpose of converting your speech into text.
+
+Speech recognition functionality may use services provided by Apple. Processing may occur on the device or through Apple services depending on the device, operating system, language and speech recognition capabilities available.
+
+Location Information
+
+Nik5W1H may request access to your location when you choose to add location information to a memory item.
+
+Location information is used to provide the location feature requested by you.
+
+Nik5W1H does not continuously track your location for advertising purposes.
+
+You can disable location access at any time through your device Settings.
+
+Documents, Scanning and Text Recognition
+
+When you choose to scan, import or attach documents, Nik5W1H processes those documents for the features you request.
+
+Text recognition may be used to extract text from images or scanned documents.
+
+The resulting information can be stored as part of your Nik5W1H records.
+
+Maps
+
+Nik5W1H may provide links or controls that allow location information to be opened using mapping services available on your device, such as Apple Maps or another mapping application you choose to use.
+
+Use of an external mapping service is subject to that service provider’s privacy policy.
+
+Data Sharing
+
+Nik5W1H does not sell your personal information.
+
+Nik5W1H does not use the contents of your personal memory items for advertising.
+
+Information may be transferred to services that you explicitly choose to use, such as iCloud, speech recognition or mapping services, as necessary to provide those features.
+
+Backup Files
+
+Backup files may contain personal information and attachments stored in Nik5W1H.
+
+You should treat backup files as private information and store or share them only in locations you trust.
+
+If you share a backup file using another application or service, the handling of that file may be subject to the privacy practices of that application or service.
+
+Permissions
+
+Nik5W1H may request system permissions including:
+
+* Microphone
+* Speech Recognition
+* Camera
+* Photos
+* Location
+
+Permissions are requested only when required for corresponding app functionality.
+
+You can review or revoke permissions through your device Settings. Disabling a permission may prevent the corresponding feature from working.
+
+Data Retention and Deletion
+
+Your Nik5W1H records remain available until they are deleted by you, removed as part of managing the app’s storage, or otherwise affected by the storage services you use.
+
+You can delete information from within Nik5W1H.
+
+If information is stored in iCloud or contained in backup files, additional copies may remain according to the operation and retention policies of those services or backups.
+
+Children’s Privacy
+
+Nik5W1H is a general-purpose personal information organiser and is not specifically directed at children.
+
+We do not knowingly use the app to collect children’s personal information for advertising or marketing purposes.
+
+Security
+
+Nik5W1H uses the security facilities provided by Apple platforms and the storage services selected by the user.
+
+However, no electronic storage system can guarantee absolute security.
+
+You should protect access to your device, Apple account and Nik5W1H backup files.
+
+Changes to This Privacy Policy
+
+This Privacy Policy may be updated when Nik5W1H features or privacy practices change.
+
+The effective date at the top of this policy will be updated when significant changes are made.
+
+Contact
+
+If you have questions about this Privacy Policy or Nik5W1H’s handling of information, please contact us using the contact information provided on the Nik5W1H support website.
+
+© 2026 Nik5W1H. All rights reserved.
