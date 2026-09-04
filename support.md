@@ -112,4 +112,15 @@ When reporting a problem, it is helpful to include:
 
 Please do not send passwords, private documents or other sensitive personal information when requesting support.
 
+=====
+
+What’s New in Version 1.1
+
+• Added AI-assisted memory entry using natural language and voice input.
+• AI can automatically suggest What, Where, When, Who, Why and How information.
+• Added Ask AI to help find information stored in your memories.
+• Added voice-enabled search with field-specific filtering.
+• Improved memory entry and editing controls.
+• General usability and reliability improvements.
+
 © 2026 Nik5W1H. All rights reserved.
